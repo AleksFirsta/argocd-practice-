@@ -23,7 +23,7 @@ metadata:
   name: pod
 spec:
   containers:
-  - image: nginx:1.19
+  - image: nginx:1.20
     name: pod
     ports:
     - containerPort: 80
